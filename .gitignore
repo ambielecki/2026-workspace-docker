@@ -1,0 +1,8 @@
+/ssh
+/dumps
+/db-data
+/.idea
+/junk
+id_rsa
+id_rsa.pub
+known_hosts
